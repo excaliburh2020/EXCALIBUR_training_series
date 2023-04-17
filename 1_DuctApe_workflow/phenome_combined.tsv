@@ -1,0 +1,194 @@
+#							activity
+#plate_id	well_id	chemical	category	moa	co_id	replica	CoInoculum	StrainA	StrainB
+PM01	A01	Negative Control	carbon	C-Source, negative control		2	0	0	0
+PM01	A02	L-Arabinose	carbon	C-Source, carbohydrate	C00259	2	8	8	8
+PM01	A03	N-Acetyl-D-Glucosamine	carbon	C-Source, carbohydrate	C00140	2	1	2	1
+PM01	A04	D-Saccharic acid	carbon	C-Source, carboxylic acid	C00818	2	1	1	0
+PM01	A05	Succinic acid	carbon	C-Source, carboxylic acid	C00042	2	0	0	1
+PM01	A06	D-Galactose	carbon	C-Source, carbohydrate	C00124	2	1	0	0
+PM01	A07	L-Aspartic acid	carbon	C-Source, amino acid	C00049	2	2	0	3
+PM01	A08	L-Proline	carbon	C-Source, amino acid	C00148	2	0	2	1
+PM01	A09	D-Alanine	carbon	C-Source, amino acid	C00133	2	1	2	1
+PM01	A10	D-Trehalose	carbon	C-Source, carbohydrate	C01083	2	3	5	3
+PM01	A11	D-Mannose	carbon	C-Source, carbohydrate	C00159	2	4	5	4
+PM01	A12	Dulcitol	carbon	C-Source, carbohydrate	C01697	2	4	4	3
+PM01	B01	D-Serine	carbon	C-Source, amino acid	C00740	2	0	0	0
+PM01	B02	D-Sorbitol	carbon	C-Source, carbohydrate	C00794	2	2	2	2
+PM01	B03	Glycerol	carbon	C-Source, carbohydrate	C00116	2	2	2	2
+PM01	B04	L-Fucose	carbon	C-Source, carbohydrate	C01019	2	1	0	0
+PM01	B05	D-Glucuronic acid	carbon	C-Source, carboxylic acid	C00191	2	0	1	0
+PM01	B06	D-Gluconic acid	carbon	C-Source, carboxylic acid	C00257	2	1	2	3
+PM01	B07	DL-a-Glycerol Phosphate	carbon	C-Source, carbohydrate	C00093	2	1	3	3
+PM01	B08	D-Xylose	carbon	C-Source, carbohydrate	C00181	2	8	7	7
+PM01	B09	L-Lactic acid	carbon	C-Source, carboxylic acid	C01432	2	1	0	3
+PM01	B10	Formic acid	carbon	C-Source, carboxylic acid	C00058	2	0	0	0
+PM01	B11	D-Mannitol	carbon	C-Source, carbohydrate	C00392	2	3	5	4
+PM01	B12	L-Glutamic acid	carbon	C-Source, amino acid	C00025	2	3	3	6
+PM01	C01	D-Glucose-6-Phosphate	carbon	C-Source, carbohydrate	C00092	2	0	0	0
+PM01	C02	D-Galactonic acid-g-Lactone	carbon	C-Source, carboxylic acid	C03383	2	0	0	0
+PM01	C03	DL-Malic acid	carbon	C-Source, carboxylic acid	C00497	2	3	3	3
+PM01	C04	D-Ribose	carbon	C-Source, carbohydrate	C00121	2	9	9	9
+PM01	C05	Tween 20	carbon	C-Source, fatty acid	C11624	2	0	0	0
+PM01	C06	L-Rhamnose	carbon	C-Source, carbohydrate	C00507	2	3	3	1
+PM01	C07	D-Fructose	carbon	C-Source, carbohydrate	C00095	2	3	5	3
+PM01	C08	Acetic acid	carbon	C-Source, carboxylic acid	C00033	2	0	0	0
+PM01	C09	a-D-Glucose	carbon	C-Source, carbohydrate	C00031	2	3	5	2
+PM01	C10	Maltose	carbon	C-Source, carbohydrate	C00208	2	0	2	2
+PM01	C11	D-Melibiose	carbon	C-Source, carbohydrate	C05402	2	3	1	3
+PM01	C12	Thymidine	carbon	C-Source, carbohydrate	C00214	2	3	3	4
+PM01	D01	L-Asparagine	carbon	C-Source, amino acid	C00152	2	7	5	7
+PM01	D02	D-Aspartic acid	carbon	C-Source, amino acid	C00402	2	0	0	0
+PM01	D03	D-Glucosaminic acid	carbon	C-Source, carboxylic acid	C03752	2	0	0	0
+PM01	D04	1,2-Propanediol	carbon	C-Source, alcohol	C00583	2	1	0	0
+PM01	D05	Tween 40	carbon	C-Source, fatty acid		2	0	1	0
+PM01	D06	a-Ketoglutaric acid	carbon	C-Source, carboxylic acid	C00026	2	0	0	0
+PM01	D07	a-Ketobutyric acid	carbon	C-Source, carboxylic acid	C00109	2	0	1	0
+PM01	D08	a-Methyl-D-Galactoside	carbon	C-Source, carbohydrate	C03619	2	1	0	1
+PM01	D09	a-D-Lactose	carbon	C-Source, carbohydrate	C00243	2	0	0	0
+PM01	D10	Lactulose	carbon	C-Source, carbohydrate	C07064	2	0	1	1
+PM01	D11	Sucrose	carbon	C-Source, carbohydrate	C00089	2	3	4	4
+PM01	D12	Uridine	carbon	C-Source, carbohydrate	C00299	2	3	2	4
+PM01	E01	L-Glutamine	carbon	C-Source, amino acid	C00064	2	2	2	3
+PM01	E02	m-Tartaric acid	carbon	C-Source, carboxylic acid	C00552	2	0	0	0
+PM01	E03	D-Glucose-1-Phosphate	carbon	C-Source, carbohydrate	C00103	2	0	0	0
+PM01	E04	D-Fructose-6-Phosphate	carbon	C-Source, carbohydrate	C00085	2	3	3	0
+PM01	E05	Tween 80	carbon	C-Source, fatty acid	C11625	2	0	0	0
+PM01	E06	a-Hydroxyglutaric acid-g-Lactone	carbon	C-Source, carboxylic acid		2	0	0	0
+PM01	E07	a-Hydroxybutyric acid	carbon	C-Source, carboxylic acid	C05984	2	0	0	0
+PM01	E08	b-Methyl-D-Glucoside	carbon	C-Source, carbohydrate		2	2	5	3
+PM01	E09	Adonitol	carbon	C-Source, carbohydrate	C00474	2	1	1	0
+PM01	E10	Maltotriose	carbon	C-Source, carbohydrate	C01835	2	2	5	4
+PM01	E11	2`-Deoxyadenosine	carbon	C-Source, carbohydrate	C00559	2	0	1	0
+PM01	E12	Adenosine	carbon	C-Source, carbohydrate	C00212	2	3	3	4
+PM01	F01	Gly-Asp	carbon	C-Source, amino acid	C02871	2	1	3	0
+PM01	F02	Citric acid	carbon	C-Source, carboxylic acid	C00158	2	2	1	2
+PM01	F03	m-Inositol	carbon	C-Source, carbohydrate	C00137	2	1	2	3
+PM01	F04	D-Threonine	carbon	C-Source, amino acid	C00820	2	0	0	0
+PM01	F05	Fumaric acid	carbon	C-Source, carboxylic acid	C00122	2	2	5	2
+PM01	F06	Bromosuccinic acid	carbon	C-Source, carboxylic acid		2	0	1	0
+PM01	F07	Propionic acid	carbon	C-Source, carboxylic acid	C00163	2	0	1	0
+PM01	F08	Mucic acid	carbon	C-Source, carboxylic acid	C01807	2	1	2	2
+PM01	F09	Glycolic acid	carbon	C-Source, carboxylic acid	C00160	2	0	0	3
+PM01	F10	Glyoxylic acid	carbon	C-Source, carboxylic acid	C00048	2	4	4	4
+PM01	F11	D-Cellobiose	carbon	C-Source, carbohydrate	C00185	2	3	5	4
+PM01	F12	Inosine	carbon	C-Source, carbohydrate	C00294	2	3	3	4
+PM01	G01	Gly-Glu	carbon	C-Source, amino acid		2	0	3	4
+PM01	G02	Tricarballylic acid	carbon	C-Source, carboxylic acid		2	0	0	0
+PM01	G03	L-Serine	carbon	C-Source, amino acid	C00065	2	0	2	0
+PM01	G04	L-Threonine	carbon	C-Source, amino acid	C00188	2	0	0	1
+PM01	G05	L-Alanine	carbon	C-Source, amino acid	C00041	2	1	2	2
+PM01	G06	Ala-Gly	carbon	C-Source, amino acid		2	1	2	2
+PM01	G07	Acetoacetic acid	carbon	C-Source, carboxylic acid	C00164	2	0	1	0
+PM01	G08	N-Acetyl-D-Mannosamine	carbon	C-Source, carbohydrate	C00645	2	1	1	1
+PM01	G09	Mono-Methylsuccinate	carbon	C-Source, carboxylic acid		2	0	1	3
+PM01	G10	Methylpyruvate	carbon	C-Source, ester		2	3	2	3
+PM01	G11	D-Malic acid	carbon	C-Source, carboxylic acid	C00497	2	0	1	0
+PM01	G12	L-Malic acid	carbon	C-Source, carboxylic acid	C00149	2	5	7	7
+PM01	H01	Gly-Pro	carbon	C-Source, amino acid		2	0	3	4
+PM01	H02	p-Hydroxyphenyl Acetic acid	carbon	C-Source, carboxylic acid	C00642	2	0	0	0
+PM01	H03	m-Hydroxyphenyl Acetic acid	carbon	C-Source, carboxylic acid	C05593	2	0	1	0
+PM01	H04	Tyramine	carbon	C-Source, amine	C00483	2	0	0	0
+PM01	H05	D-Psicose	carbon	C-Source, carbohydrate	C06468	2	0	4	0
+PM01	H06	L-Lyxose	carbon	C-Source, carbohydrate	C01508	2	8	8	8
+PM01	H07	Glucuronamide	carbon	C-Source, amide	D01791	2	4	3	4
+PM01	H08	Pyruvic acid	carbon	C-Source, carboxylic acid	C00022	2	2	5	7
+PM01	H09	L-Galactonic acid-g-Lactone	carbon	C-Source, carboxylic acid	C01115	2	5	7	4
+PM01	H10	D-Galacturonic acid	carbon	C-Source, carboxylic acid	C00333	2	7	7	4
+PM01	H11	Phenylethylamine	carbon	C-Source, amine	C05332	2	0	3	3
+PM01	H12	2-Aminoethanol	carbon	C-Source, alcohol	C00189	2	4	3	4
+PM03	A01	Negative Control	nitrogen	N-Source, Negative control		2	0	0	0
+PM03	A02	Ammonia	nitrogen	N-Source, inorganic	C00014	2	3	0	3
+PM03	A03	Nitrite	nitrogen	N-Source, inorganic	C00088	2	1	3	1
+PM03	A04	Nitrate	nitrogen	N-Source, inorganic	C00244	2	0	2	1
+PM03	A05	Urea	nitrogen	N-Source, other	C00086	2	1	1	1
+PM03	A06	Biuret	nitrogen	N-Source, other	C06555	2	0	3	0
+PM03	A07	L-Alanine	nitrogen	N-Source, amino acid	C00041	2	3	1	2
+PM03	A08	L-Arginine	nitrogen	N-Source, amino acid	C00062	2	4	1	3
+PM03	A09	L-Asparagine	nitrogen	N-Source, amino acid	C00152	2	5	0	6
+PM03	A10	L-Aspartic acid	nitrogen	N-Source, amino acid	C00049	2	4	1	6
+PM03	A11	L-Cysteine	nitrogen	N-Source, amino acid	C00097	2	4	0	4
+PM03	A12	L-Glutamic acid	nitrogen	N-Source, amino acid	C00025	2	3	6	6
+PM03	B01	L-Glutamine	nitrogen	N-Source, amino acid	C00064	2	5	0	5
+PM03	B02	Glycine	nitrogen	N-Source, amino acid	C00037	2	0	0	0
+PM03	B03	L-Histidine	nitrogen	N-Source, amino acid	C00135	2	1	0	0
+PM03	B04	L-Isoleucine	nitrogen	N-Source, amino acid	C00407	2	0	1	0
+PM03	B05	L-Leucine	nitrogen	N-Source, amino acid	C00123	2	0	3	0
+PM03	B06	L-Lysine	nitrogen	N-Source, amino acid	C00047	2	0	0	0
+PM03	B07	L-Methionine	nitrogen	N-Source, amino acid	C00073	2	0	0	0
+PM03	B08	L-Phenylalanine	nitrogen	N-Source, amino acid	C00079	2	0	5	0
+PM03	B09	L-Proline	nitrogen	N-Source, amino acid	C00148	2	3	2	2
+PM03	B10	L-Serine	nitrogen	N-Source, amino acid	C00065	2	0	0	0
+PM03	B11	L-Threonine	nitrogen	N-Source, amino acid	C00188	2	1	0	2
+PM03	B12	L-Tryptophan	nitrogen	N-Source, amino acid	C00078	2	4	0	4
+PM03	C01	L-Tyrosine	nitrogen	N-Source, amino acid	C00082	2	0	1	0
+PM03	C02	L-Valine	nitrogen	N-Source, amino acid	C00183	2	1	0	0
+PM03	C03	D-Alanine	nitrogen	N-Source, amino acid	C00133	2	1	0	3
+PM03	C04	D-Asparagine	nitrogen	N-Source, amino acid	C01905	2	1	0	1
+PM03	C05	D-Aspartic acid	nitrogen	N-Source, amino acid	C00402	2	1	0	1
+PM03	C06	D-Glutamic acid	nitrogen	N-Source, amino acid	C00217	2	0	1	0
+PM03	C07	D-Lysine	nitrogen	N-Source, amino acid	C00739	2	0	0	0
+PM03	C08	D-Serine	nitrogen	N-Source, amino acid	C00740	2	0	0	0
+PM03	C09	D-Valine	nitrogen	N-Source, amino acid	C06417	2	0	0	0
+PM03	C10	L-Citrulline	nitrogen	N-Source, amino acid	C00327	2	0	0	0
+PM03	C11	L-Homoserine	nitrogen	N-Source, amino acid	C00263	2	0	0	0
+PM03	C12	L-Ornithine	nitrogen	N-Source, amino acid	C00077	2	4	3	6
+PM03	D01	N-Acetyl-L-Glutamic acid	nitrogen	N-Source, amino acid	C00624	2	0	0	0
+PM03	D02	N-Phthaloyl-L-Glutamic acid	nitrogen	N-Source, amino acid		2	0	5	0
+PM03	D03	L-Pyroglutamic acid	nitrogen	N-Source, amino acid	C02238	2	1	0	1
+PM03	D04	Hydroxylamine	nitrogen	N-Source, other	C00192	2	0	0	0
+PM03	D05	Methylamine	nitrogen	N-Source, other	C00218	2	0	0	0
+PM03	D06	N-Amylamine	nitrogen	N-Source, other		2	0	3	0
+PM03	D07	N-Butylamine	nitrogen	N-Source, other		2	0	0	0
+PM03	D08	Ethylamine	nitrogen	N-Source, other	C00797	2	0	0	0
+PM03	D09	Ethanolamine	nitrogen	N-Source, other	C00189	2	0	0	0
+PM03	D10	Ethylenediamine	nitrogen	N-Source, other	C12511	2	0	0	0
+PM03	D11	Putrescine	nitrogen	N-Source, other	C00134	2	0	0	0
+PM03	D12	Agmatine	nitrogen	N-Source, other	C00179	2	0	0	4
+PM03	E01	Histamine	nitrogen	N-Source, other	C00388	2	0	0	0
+PM03	E02	b-Phenylethylamine	nitrogen	N-Source, other	C05332	2	0	0	0
+PM03	E03	Tyramine	nitrogen	N-Source, other	C00483	2	0	0	0
+PM03	E04	Acetamide	nitrogen	N-Source, other	C06244	2	0	0	0
+PM03	E05	Formamide	nitrogen	N-Source, other	C00488	2	0	7	0
+PM03	E06	Glucuronamide	nitrogen	N-Source, other	D01791	2	0	0	0
+PM03	E07	DL-Lactamide	nitrogen	N-Source, other		2	0	0	0
+PM03	E08	D-Glucosamine	nitrogen	N-Source, other	C00329	2	0	0	3
+PM03	E09	D-Galactosamine	nitrogen	N-Source, other	C02262	2	0	0	0
+PM03	E10	D-Mannosamine	nitrogen	N-Source, other	C03570	2	1	0	3
+PM03	E11	N-Acetyl-D-Glucosamine	nitrogen	N-Source, other	C00140	2	0	0	0
+PM03	E12	N-Acetyl-D-Galactosamine	nitrogen	N-Source, other	C01074	2	0	7	4
+PM03	F01	N-Acetyl-D-Mannosamine	nitrogen	N-Source, other	C00645	2	0	0	0
+PM03	F02	Adenine	nitrogen	N-Source, other	C00147	2	0	0	0
+PM03	F03	Adenosine	nitrogen	N-Source, other	C00212	2	0	0	0
+PM03	F04	Cytidine	nitrogen	N-Source, other	C00475	2	1	0	0
+PM03	F05	Cytosine	nitrogen	N-Source, other	C00380	2	0	0	0
+PM03	F06	Guanine	nitrogen	N-Source, other	C00242	2	6	0	0
+PM03	F07	Guanosine	nitrogen	N-Source, other	C00387	2	7	0	7
+PM03	F08	Thymine	nitrogen	N-Source, other	C00178	2	0	0	0
+PM03	F09	Thymidine	nitrogen	N-Source, other	C00214	2	0	0	0
+PM03	F10	Uracil	nitrogen	N-Source, other	C00106	2	0	0	0
+PM03	F11	Uridine	nitrogen	N-Source, other	C00299	2	0	0	0
+PM03	F12	Inosine	nitrogen	N-Source, other	C00294	2	4	0	4
+PM03	G01	Xanthine	nitrogen	N-Source, other	C00385	2	1	0	2
+PM03	G02	Xanthosine	nitrogen	N-Source, other	C01762	2	0	0	0
+PM03	G03	Uric acid	nitrogen	N-Source, other	C00366	2	3	0	3
+PM03	G04	Alloxan	nitrogen	N-Source, other	C07599	2	0	0	4
+PM03	G05	Allantoin	nitrogen	N-Source, other	C01551	2	3	0	3
+PM03	G06	Parabanic acid	nitrogen	N-Source, other		2	0	0	0
+PM03	G07	DL-a-Amino-N-Butyric acid	nitrogen	N-Source, other	C02261	2	0	0	0
+PM03	G08	g-Amino-N-Butyric acid	nitrogen	N-Source, other	C00334	2	2	0	2
+PM03	G09	e-Amino-N-Caproic acid	nitrogen	N-Source, other	C02378	2	0	0	4
+PM03	G10	DL-a-Amino-Caprylic acid	nitrogen	N-Source, other		2	0	0	4
+PM03	G11	d-Amino-N-Valeric acid	nitrogen	N-Source, other	C00431	2	0	0	4
+PM03	G12	a-Amino-N-Valeric acid	nitrogen	N-Source, other	C01826	2	0	0	4
+PM03	H01	Ala-Asp	nitrogen	N-Source, peptide	C02871	2	4	2	6
+PM03	H02	Ala-Gln	nitrogen	N-Source, peptide		2	4	0	6
+PM03	H03	Ala-Glu	nitrogen	N-Source, peptide		2	4	0	6
+PM03	H04	Ala-Gly	nitrogen	N-Source, peptide		2	4	0	4
+PM03	H05	Ala-His	nitrogen	N-Source, peptide		2	4	0	2
+PM03	H06	Ala-Leu	nitrogen	N-Source, peptide	C05035	2	3	0	4
+PM03	H07	Ala-Thr	nitrogen	N-Source, peptide		2	2	0	4
+PM03	H08	Gly-Asn	nitrogen	N-Source, peptide		2	3	0	4
+PM03	H09	Gly-Gln	nitrogen	N-Source, peptide		2	4	8	7
+PM03	H10	Gly-Glu	nitrogen	N-Source, peptide		2	1	0	4
+PM03	H11	Gly-Met	nitrogen	N-Source, peptide		2	0	2	4
+PM03	H12	Met-Ala	nitrogen	N-Source, peptide		2	3	0	6
