@@ -39,6 +39,9 @@
 ###############################################################################
 
 # Loading needed libraries
+# if needed may run the below command to install them
+# install.packages(c("tidyverse", "ggsci", "ggpubr", "reshape2", "ggside",
+# "ggdist", "FactoMineR", "factoextra", "pathview")) 
 
 library(tidyverse)
 library(ggsci)
